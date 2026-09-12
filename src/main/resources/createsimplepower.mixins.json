@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.seagullsz.createsimplepower.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "createsimplepower.refmap.json",
+  "client": [
+    "PonderSceneAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "block.createsimplepower.createsimplepower_generator_block": "Createsimplepower Generator Block",
+  "block.createsimplepower.createsimplepower_kinetic_block": "Createsimplepower Kinetic Block",
+  "createsimplepower.ponder.createsimplepower_ponder.header": "Welcome to the Example Addon",
+  "createsimplepower.ponder.createsimplepower_ponder.text_1": "Every block here is loaded from createsimplepower_ponder.nbt",
+  "createsimplepower.ponder.createsimplepower_ponder.text_2": "Block entities like this sign render and tick just as they do in-world",
+  "createsimplepower.ponder.createsimplepower_ponder.text_3": "Two Mechanical Arms flank the sign, proving Create's own blocks work too",
+  "createsimplepower.ponder.createsimplepower_ponder.text_4": "You can also apply kinetic speeds to certain blocks",
+  "createsimplepower.ponder.desk_bell_intro.header": "The Desk Bell",
+  "createsimplepower.ponder.desk_bell_intro.text_1": "This is the desk bell.",
+  "createsimplepower.ponder.desk_bell_intro.text_2": "The desk bell will produce a redstone signal when pressed.",
+  "createsimplepower.ponder.desk_bell_intro.text_3": "The bell can also be rang using a deployer",
+  "item.createsimplepower.createsimplepower_item": "Createsimplepower Item",
+  "item.createsimplepower.createsimplepower_result": "Createsimplepower Result",
+  "item.createsimplepower.incomplete_example": "Incomplete Example",
+  "itemGroup.createsimplepower.main_tab": "Main Tab"
+}

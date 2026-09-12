@@ -1,0 +1,28 @@
+{
+	"itemGroup.createsimplepower": "Beispiel Create-Erweiterung",
+	"itemGroup.createsimplepower.main_tab": "Hauptreiter",
+
+	"block.createsimplepower.createsimplepower_kinetic_block": "Beispiel-Kinetikblock",
+	"block.createsimplepower.createsimplepower_generator_block": "Beispiel-Generatorblock",
+
+	"item.createsimplepower.createsimplepower_item": "Beispielgegenstand",
+	"item.createsimplepower.createsimplepower_result": "Beispielergebnis",
+	"item.createsimplepower.incomplete_example": "Unvollständiges Beispiel",
+
+	"gui.createsimplepower.createsimplepower_generator.generating": "Erzeugt Rotation",
+	"gui.createsimplepower.createsimplepower_kinetic.consuming": "Verbraucht Belastung",
+	"gui.createsimplepower.rpm": "%s UPM",
+	"gui.createsimplepower.su": "%s SU",
+
+	"display_source.createsimplepower.createsimplepower_source": "Kinetische Geschwindigkeit",
+
+	"item.createsimplepower.createsimplepower_item.tooltip.summary": "Ein Vorführgegenstand für die _Beispiel-Erweiterung_.",
+	"item.createsimplepower.createsimplepower_item.tooltip.condition1": "Wenn gehalten",
+	"item.createsimplepower.createsimplepower_item.tooltip.behaviour1": "Zeigt diese Beschreibung – ermöglicht durch Creates _ItemDescription_-Tooltip-System.",
+
+	"createsimplepower.ponder.createsimplepower_ponder.header": "Willkommen bei der Beispiel-Erweiterung",
+	"createsimplepower.ponder.createsimplepower_ponder.text_1": "Jeder Block hier wird aus createsimplepower_ponder.nbt geladen",
+	"createsimplepower.ponder.createsimplepower_ponder.text_2": "Blockentitäten wie dieses Schild werden dargestellt und ticken wie in der Welt",
+	"createsimplepower.ponder.createsimplepower_ponder.text_3": "Zwei mechanische Arme flankieren das Schild und beweisen, dass auch Creates eigene Blöcke funktionieren",
+	"createsimplepower.ponder.createsimplepower_ponder.text_4": "Du kannst auch den blöcken rpm werte geben"
+}

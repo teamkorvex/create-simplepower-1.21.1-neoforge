@@ -1,0 +1,17 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "createsimplepower:block/createsimplepower_kinetic_block",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "createsimplepower:block/createsimplepower_kinetic_block"
+    },
+    "axis=z": {
+      "model": "createsimplepower:block/createsimplepower_kinetic_block",
+      "x": 90,
+      "y": 180
+    }
+  }
+}

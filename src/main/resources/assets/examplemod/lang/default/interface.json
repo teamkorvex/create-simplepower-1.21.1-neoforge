@@ -1,0 +1,10 @@
+{
+	"itemGroup.createsimplepower": "Create: Simple Power",
+
+	"gui.createsimplepower.createsimplepower_generator.generating": "Generating rotation",
+	"gui.createsimplepower.createsimplepower_kinetic.consuming": "Drawing stress",
+	"gui.createsimplepower.rpm": "%s RPM",
+	"gui.createsimplepower.su": "%s SU",
+
+	"display_source.createsimplepower.createsimplepower_source": "Kinetic Speed"
+}
